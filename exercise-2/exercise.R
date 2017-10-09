@@ -3,7 +3,6 @@
 # Write a function `CompareLength` that takes in 2 vectors, and returns the sentence:
 # "The difference in lengths is N"
 
-
 # Pass two vectors of different length to your `CompareLength` function
 
 
